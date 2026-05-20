@@ -5,3 +5,5 @@
 * salt
 ## Instructions
 * remove stone from avocado
+* wash hands
+* 
