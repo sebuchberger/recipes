@@ -6,4 +6,4 @@
 ## Instructions
 * remove stone from avocado
 * wash hands
-* 
+* squeeze lemon
