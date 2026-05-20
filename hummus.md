@@ -1,6 +1,7 @@
-# this is not moroccan just saying 
-## ingredients 
+# Hummus
+this is not moroccan just saying 
+## Ingredients 
 * chickpea
-*lemon
-*coucou
- 
+* lemon
+* olive oil
+## Instructions
