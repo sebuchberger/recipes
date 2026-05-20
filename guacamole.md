@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
-* avocado
-* lime
-* salt
+* Avocado
+* Lime
+* Salt
 ## Instructions
-* remove stone from avocado
+* Remove stone from avocado
